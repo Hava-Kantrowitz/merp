@@ -1,0 +1,64 @@
+10.0.0.5:Service Info: OSs: Windows, Windows Server 2008 R2 - 2012; CPE: cpe:/o:microsoft:windows
+10.4.101.110:Service Info: Host: 1F517C3A-AE8D-4F7E-AB65-AE62208A1E3E; OS: Mac OS X; CPE: cpe:/o:apple:mac_os_x
+10.4.101.111:Service Info: OS: Mac OS X; CPE: cpe:/o:apple:mac_os_x
+10.4.101.112:Service Info: OS: Mac OS X; CPE: cpe:/o:apple:mac_os_x
+10.4.101.113:Service Info: OS: Mac OS X; CPE: cpe:/o:apple:mac_os_x
+10.4.101.114:Service Info: OS: Mac OS X; CPE: cpe:/o:apple:mac_os_x
+10.4.101.117:Aggressive OS guesses: Tomato firmware (Linux 2.6.22) (86%)
+10.4.101.123:Service Info: OS: Mac OS X; CPE: cpe:/o:apple:mac_os_x
+10.4.102.135:Aggressive OS guesses: Citrix NetScaler load balancer (97%)
+10.9.16.1:printer
+10.9.36.20:Service Info: Device: printer
+10.9.36.21:Aggressive OS guesses: Lexmark X546dtn printer (88%), Linux 2.6.24 (88%), Lexmark C534dn printer (85%), Asus RT-N10 router or AXIS 211A Network Camera (Linux 2.6) (85%), Linux 2.6.18 (85%), AXIS 211A Network Camera (Linux 2.6.20) (85%)
+10.9.44.16:Service Info: Host: 10.9.44.16; Device: printer; CPE: cpe:/h:hp:laserjet_p4014
+10.9.44.17:Aggressive OS guesses: HP LaserJet Enterprise M600-series printer (90%), Aastra 6731i VoIP phone or Apple AirPort Express WAP (90%), HP LaserJet M525 printer (89%), Epson Stylus Pro 400 printer (87%), Canon imageRUNNER C5185 printer (86%), HP LaserJet 600 M601, 600 M602, 500 M551, or M830 printer (86%), SMC SMC8014WG WAP (86%), National Instruments CompactRIO automation controller (86%), HP LaserJet CP5520 printer (86%), Oki MC342 printer (86%)
+10.9.44.18:Service Info: Host: 10.9.44.18; Device: printer
+10.9.72.148:Aggressive OS guesses: Canon imageRUNNER C2380 or C2880i or Xerox Phaser 8860MFP printer (90%), Arris TM502G or TM602B cable modem (90%), HP LaserJet P2055dn printer (90%), HP LaserJet P3015 printer (90%), Cisco AP541N WAP (Linux 2.6.21) or Avaya ERS 5510 switch (90%), ShoreTel Voice Switch 220T1A VoIP gateway (90%), Avaya 4000- or 5000-series Ethernet Routing switch (89%), HP LaserJet P3005 printer (89%), Apple AirPort Express WAP or AMX NI-3100 controller (VxWorks) (89%), AirSpan ProST WiMAX access point (89%)
+10.9.75.204:Aggressive OS guesses: HP LaserJet P2055dn printer (92%), HP LaserJet P3015 printer (91%), Cisco AP541N WAP (Linux 2.6.21) or Avaya ERS 5510 switch (91%), ShoreTel Voice Switch 220T1A VoIP gateway (91%), Apple AirPort Express WAP or AMX NI-3100 controller (VxWorks) (91%), HP LaserJet P3005 printer (91%), Arris TM502G or TM602B cable modem (91%), Avaya 4000- or 5000-series Ethernet Routing switch (90%), m0n0wall 1.22 - 1.23b1 firewall (FreeBSD 4.11) (90%), HP LaserJet P3010 printer (90%)
+10.9.75.208:Service Info: Host: 10.9.75.208; Device: printer; CPE: cpe:/h:hp:laserjet_p4014
+10.9.75.210:Aggressive OS guesses: Avaya 4000- or 5000-series Ethernet Routing switch (94%), HP LaserJet P3005 printer (94%), Canon imageRUNNER C2380 or C2880i or Xerox Phaser 8860MFP printer (94%), VxWorks 5.5.1 (94%), HP LaserJet P2055dn printer (94%), HP LaserJet P3015 printer (94%), Cisco AP541N WAP (Linux 2.6.21) or Avaya ERS 5510 switch (94%), ShoreTel Voice Switch 220T1A VoIP gateway (94%), Apple AirPort Express WAP or AMX NI-3100 controller (VxWorks) (94%), Arris TM502G or TM602B cable modem (94%)
+10.14.16.161:Aggressive OS guesses: Cisco ACE load balancer (96%), Newave UPS SNMP adapter (96%), Microsoft Windows Server 2008 SP1 or Windows Server 2008 R2 (96%), Microsoft Windows 7 (96%), Microsoft Windows 98 (96%), Microsoft Windows 98 SE (96%), Microsoft Windows NT (96%), Microsoft Windows NT 4.0 SP0 (96%), Microsoft Windows XP SP2 (96%), Nokia N81 mobile phone (Symbian OS) (96%)
+10.20.0.53:Service Info: OSs: Windows, Windows Server 2008 R2 - 2012; CPE: cpe:/o:microsoft:windows
+10.21.7.39:Service Info: Device: printer; CPE: cpe:/h:hp:laserjet_p4014
+10.21.8.41:Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+10.22.1.42:Aggressive OS guesses: HP LaserJet M525 printer (93%), HP LaserJet 600 M601, 600 M602, 500 M551, or M830 printer (92%), National Instruments CompactRIO automation controller (92%), HP LaserJet Enterprise M600-series printer (92%), Oki MC342 printer (91%), Xerox ApeosPort-IV C3370 printer (91%), Apple OS X 10.8.2 (Mountain Lion) (Darwin 12.2.0) (89%), HP LaserJet CP5520 printer (89%), Aastra Dialog 4425 IP phone (88%), Hirschmann MACH switch (88%)
+10.22.1.71:Service Info: Host: 10.22.1.71; Device: printer
+10.22.1.77:WAP|router
+10.22.1.80:Aggressive OS guesses: Apple iOS 5.1.1 (85%), Apple iOS 5.1.1 - 6.1 (85%), Apple iOS 7.1.1 (85%), Apple OS X 10.8 (Mountain Lion) (Darwin 12.4.0) (85%), FreeBSD 10.1-RELEASE (85%), FreeBSD 6.2-RELEASE (85%), FreeBSD 6.3-RELEASE (85%), HP LaserJet M375nw printer (85%), Netgear WNR834Bv2 WAP (85%)
+10.23.1.77:Aggressive OS guesses: BlackBoard AT3000 POS device (95%), Nokia E70 or N86 mobile phone (Symbian OS) (94%), D-Link DWL-624+ or DWL-2000AP, or TRENDnet TEW-432BRP WAP (94%), Sony Ericsson U8i Vivaz mobile phone (94%), Efficient Networks SpeedStream 5100 ADSL router (93%), HP LaserJet 2605dn printer (92%), Epson Stylus Pro 400 printer (92%), APC Network Management Card (AOS 3.3.4 - 3.5.5) (92%), APC Smart-UPS (AOS 3.3.4) (92%), HP LaserJet M2727nf or P1505n printer (92%)
+10.36.21.3:Aggressive OS guesses: Microsoft Windows Embedded Standard 7 (87%), Microsoft Windows 8.1 R1 (87%), Microsoft Windows Phone 7.5 or 8.0 (87%), Microsoft Windows Server 2008 or 2008 Beta 3 (86%), Microsoft Windows Server 2008 R2 or Windows 8.1 (86%), Microsoft Windows 7 Professional or Windows 8 (86%), Microsoft Windows 7 SP1 or Windows Server 2008 R2 (86%), Microsoft Windows Vista SP0 or SP1, Windows Server 2008 SP1, or Windows 7 (86%), Microsoft Windows Vista SP2, Windows 7 SP1, or Windows Server 2008 (86%), Microsoft Windows Server 2008 R2 SP1 (86%)
+10.39.1.83:Aggressive OS guesses: Linux 4.0 (88%), Linux 4.4 (88%), Linux 3.10 (87%), Linux 3.10 - 3.16 (87%), Linux 2.6.32 (86%), Linux 2.6.32 - 2.6.35 (86%), Linux 2.6.32 or 3.10 (86%), Linux 3.10 - 3.12 (86%), Linux 4.9 (86%), Linux 2.6.32 - 2.6.39 (86%)
+10.39.1.85:Aggressive OS guesses: Citrix NetScaler load balancer (90%), Citrix NetScaler VPX load balancer (88%), Motorola RFS 6000 wireless switch (86%), OpenWrt (Linux 2.4.32) (85%), Linux 2.6.24 (85%), Cisco ACE load balancer (85%), Citrix Access Gateway VPN gateway (85%), Cyberoam UTM firewall (85%), Juniper SA4000 SSL VPN gateway (IVE OS 7.0) (85%), Avaya Communication Manager (Linux 2.6.11) (85%)
+10.73.0.202:Service Info: Host: SRV02ES; OS: Windows; CPE: cpe:/o:microsoft:windows
+10.82.1.105:Aggressive OS guesses: VMware ESXi 4.1 (97%), m0nowall 1.3b16 firewall (FreeBSD 6.3-RELEASE) (96%), VMware ESXi 4.1.0 (96%), VMware ESXi 5.0 (96%), VMware ESXi 4.0 (95%), VMware ESXi 5.1 (95%), FreeBSD 9.0-RELEASE - 10.3-RELEASE (95%), FreeBSD 5.5-RELEASE (95%), FreeBSD 8.0-RELEASE (95%), IronPort AsyncOS 7.5.1 (94%)
+10.85.6.12:Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+10.85.6.37:Service Info: Host: UNIFI01; OS: Windows; CPE: cpe:/o:microsoft:windows
+10.85.6.141:Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+10.85.6.150:Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+10.85.6.154:Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+10.85.6.163:Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+10.186.1.90:Service Info: Host: asbjprdvic02.hologic.cn; CPE: cpe:/o:vmware:esxi, cpe:/o:vmware:vCenter Server:6.7.0
+10.250.1.14:Service Info: Host: USMARHOLDC14; OS: Windows; CPE: cpe:/o:microsoft:windows
+10.250.1.50: Linux 3.X|4.X
+10.250.1.128:Aggressive OS guesses: Fortinet FortiGate 100D firewall (87%)
+10.250.7.223:Service Info: Device: load balancer
+10.250.104.204:Aggressive OS guesses: Fortinet FortiGate 100D firewall (87%)
+10.250.106.28:specialized|WAP|phone
+10.250.106.62:Service Info: Host: 86C93F0D-82F7-4143-89E0-7FBFAFD8924C; OS: Mac OS X; CPE: cpe:/o:apple:mac_os_x
+10.250.106.102:Aggressive OS guesses: Fortinet FortiGate 100D firewall (87%)
+10.250.106.144:Service Info: OS: Mac OS X; CPE: cpe:/o:apple:mac_os_x
+10.250.106.145:Service Info: OS: Mac OS X; CPE: cpe:/o:apple:mac_os_x
+10.250.106.146:Aggressive OS guesses: Fortinet FortiGate 100D firewall (87%)
+10.250.106.147:Service Info: OS: Mac OS X; CPE: cpe:/o:apple:mac_os_x
+10.250.106.148:Aggressive OS guesses: Fortinet FortiGate 100D firewall (87%)
+10.250.106.160:Service Info: OS: Mac OS X; CPE: cpe:/o:apple:mac_os_x
+10.250.106.163:Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+10.250.106.178:Service Info: OS: Mac OS X; CPE: cpe:/o:apple:mac_os_x
+10.250.107.62:Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+10.250.204.1:Service Info: Host: PC1; OS: Windows; CPE: cpe:/o:microsoft:windows
+10.250.204.3:Service Info: Host: PC3; OS: Windows; CPE: cpe:/o:microsoft:windows
+10.250.204.6:Aggressive OS guesses: Microsoft Windows Phone 7.5 or 8.0 (92%), Microsoft Windows 10 1607 (92%), Microsoft Windows 10 1511 (92%), Microsoft Windows Server 2008 or 2008 Beta 3 (92%), Microsoft Windows Server 2008 R2 or Windows 8.1 (92%), Microsoft Windows Vista SP0 or SP1, Windows Server 2008 SP1, or Windows 7 (92%), FreeBSD 6.2-RELEASE (92%), Microsoft Windows Embedded Standard 7 (92%), Microsoft Windows 10 1511 - 1607 (92%), Microsoft Windows 8.1 R1 (90%)
+10.250.204.7:Service Info: Host: PC7; OS: Windows; CPE: cpe:/o:microsoft:windows
+10.250.204.22:Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+10.250.204.30:Service Info: Host: PC30; OS: Windows; CPE: cpe:/o:microsoft:windows
+10.250.105.142:
